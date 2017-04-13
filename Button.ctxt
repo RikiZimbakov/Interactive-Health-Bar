@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Button
+comment1.params=
+comment1.target=Button()
+comment2.params=noClick\ click\ v
+comment2.target=Button(java.awt.Color,\ java.awt.Color,\ int)
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ act\ gets\ a\ reference\ to\ our\ healthBar\ object\ and\ also\ checks\ if\ the\ mouse\ is\ pressed\r\n\ and\ sets\ the\ image\ to\ buttonImage2\ so\ it\ just\ changes\ colour.\ If\ the\ mouse\ is\ clicked\ \r\n\ on\ the\ other\ hand\ it\ adds\ or\ subtracts\ score\ accordingly.\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+numComments=4
